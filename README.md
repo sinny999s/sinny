@@ -24,3 +24,5 @@ IF SCRIPT DOESN'T LOAD IMMEDIATELY JUST WAIT FOR IT TO LOAD.
 Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
 
 &copy; 2022 - PDennSploit Softworks LLC
+https://raw.githubusercontent.com/sinny999s/sinny/blob/main/loader.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sinny999s/sinny/refs/heads/main/loader.lua"))()
