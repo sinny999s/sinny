@@ -1,6 +1,6 @@
 local window = library:CreateWindow(
     {
-        WindowName = "ALCATRAZ UI - v1.0.2",
+        WindowName = "SINNYS UI - v1.0.2",
         Color = Color3.fromRGB(179, 51, 196),
     },
     game.CoreGui
@@ -112,7 +112,7 @@ local gun_sector = aimbot_tab:CreateSection("All Guns")
     gun_sector:CreateToggle("enabled", false, function(state)
         
     game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "ALCATRAZ UI",
+    Title = "SINNYS UI",
     Text = "ALL GUNS ACTIVE", 
     Duration = 8
     })
